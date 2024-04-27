@@ -1,4 +1,4 @@
-package lang.string;
+package lang.string.basic;
 
 /**
  * @author : yong
